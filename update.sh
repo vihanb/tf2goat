@@ -1,2 +1,2 @@
 git fetch origin
-git checkout origin/master -- tf2goat.py
+git checkout origin/master -- tf2goat.py update.sh
